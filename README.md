@@ -9,6 +9,6 @@
 Languages and Tools:
 MySQL Power BI Excel Python
 <!---
-25112017/25112017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Santhosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
